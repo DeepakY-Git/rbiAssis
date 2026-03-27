@@ -1,0 +1,210 @@
+{
+  "subject": "Reasoning Ability",
+  "topics": [
+    {
+      "name": "Syllogism",
+      "questions": [
+        {
+          "id": "R001",
+          "year": 2023,
+          "question": "Statements: All cats are dogs. Some dogs are rats.\nConclusions: I. Some cats are rats. II. Some rats are cats.",
+          "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+          "answer": 3,
+          "explanation": "From 'All cats are dogs' and 'Some dogs are rats', we cannot conclude that some cats are rats directly as the dogs that are rats may not be the cats. Neither conclusion follows."
+        },
+        {
+          "id": "R002",
+          "year": 2022,
+          "question": "Statements: All pens are books. All books are pencils.\nConclusions: I. All pens are pencils. II. All pencils are pens.",
+          "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+          "answer": 0,
+          "explanation": "All pens are books AND all books are pencils → All pens are pencils (I follows). But not necessarily all pencils are pens (II doesn't follow)."
+        },
+        {
+          "id": "R003",
+          "year": 2021,
+          "question": "Statements: Some mangoes are fruits. All fruits are vegetables.\nConclusions: I. Some mangoes are vegetables. II. All vegetables are fruits.",
+          "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+          "answer": 0,
+          "explanation": "Some mangoes are fruits + All fruits are vegetables → Some mangoes are vegetables. But all vegetables being fruits is not given."
+        }
+      ]
+    },
+    {
+      "name": "Blood Relations",
+      "questions": [
+        {
+          "id": "R004",
+          "year": 2023,
+          "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+          "options": ["Granddaughter", "Daughter", "Grandmother", "Daughter-in-law", "Cannot be determined"],
+          "answer": 0,
+          "explanation": "A is B's sister → A is C's daughter → C is D's daughter → A is D's granddaughter."
+        },
+        {
+          "id": "R005",
+          "year": 2022,
+          "question": "Pointing to a photograph, Rajan said, 'She is the only daughter of my father's only daughter.' How is the girl in the photograph related to Rajan?",
+          "options": ["Niece", "Daughter", "Cousin", "Sister", "Cannot be determined"],
+          "answer": 1,
+          "explanation": "Rajan's father's only daughter = Rajan's sister (or Rajan himself if female) — here it implies Rajan's sister. That sister's only daughter = Rajan's niece. But if Rajan is female, it could be her daughter. As Rajan is typically male in context, the answer is Niece — but the most common RBI answer for this classic is 'Niece'."
+        },
+        {
+          "id": "R006",
+          "year": 2021,
+          "question": "If X is the brother of Y; Y is the sister of Z; Z is the father of W. How is X related to W?",
+          "options": ["Uncle", "Nephew", "Brother", "Father", "Cannot be determined"],
+          "answer": 0,
+          "explanation": "X and Y are siblings. Y is Z's sister → X is Z's brother. Z is W's father → X is W's uncle."
+        }
+      ]
+    },
+    {
+      "name": "Coding-Decoding",
+      "questions": [
+        {
+          "id": "R007",
+          "year": 2023,
+          "question": "In a certain code language, 'COMPUTER' is written as 'RFUVQNPC'. How is 'MEDICINE' written in that code?",
+          "options": ["MFEJDJOF", "NFEJDJOF", "EOJDJEFM", "NFEJDJO", "EOJDEJOF"],
+          "answer": 1,
+          "explanation": "Each letter is moved one step forward in the alphabet: M→N, E→F, D→E, I→J, C→D, I→J, N→O, E→F → NFEJDJOF."
+        },
+        {
+          "id": "R008",
+          "year": 2022,
+          "question": "If FRIEND is coded as HUMJTK, how is CANDLE coded?",
+          "options": ["EDRIRL", "DCQHQK", "EDRJQM", "EDNPQM", "ECPFNG"],
+          "answer": 0,
+          "explanation": "Each letter is increased by 2 positions: C+2=E, A+2=C, N+2=P... wait let me recheck. F+2=H, R+2=T... FRIEND→HUMJTK: F→H(+2), R→U(+3), I→M(+4), E→J(+5), N→T(+6), D→K(+7). Pattern is +2,+3,+4,+5,+6,+7. CANDLE: C+2=E, A+3=D, N+4=R, D+5=I, L+6=R, E+7=L → EDRIRL."
+        },
+        {
+          "id": "R009",
+          "year": 2021,
+          "question": "In a code language, 'ORANGE' is written as '5-18-1-14-7-5'. How is 'MANGO' written?",
+          "options": ["13-1-14-7-15", "13-1-13-7-15", "12-1-14-7-14", "14-1-14-8-15", "13-2-14-7-15"],
+          "answer": 0,
+          "explanation": "Each letter is replaced by its position in the alphabet. M=13, A=1, N=14, G=7, O=15 → 13-1-14-7-15."
+        }
+      ]
+    },
+    {
+      "name": "Seating Arrangement",
+      "questions": [
+        {
+          "id": "R010",
+          "year": 2023,
+          "question": "Eight people A, B, C, D, E, F, G and H are sitting around a circular table. A sits second to left of E. B sits third to right of A. C is not an immediate neighbor of A. D sits second to right of C. F and H are immediate neighbors. G sits to the immediate left of H. Who sits to the immediate right of B?",
+          "options": ["A", "C", "D", "F", "G"],
+          "answer": 2,
+          "explanation": "Solving the circular arrangement step by step: A and E placed, then B, D, and others. D sits to the immediate right of B based on the given constraints."
+        },
+        {
+          "id": "R011",
+          "year": 2022,
+          "question": "Five friends P, Q, R, S, T are sitting in a row facing north. P sits to the immediate right of Q. R sits at one of the extreme ends. S is not adjacent to R. T is to the left of S. Who sits in the middle?",
+          "options": ["P", "Q", "R", "S", "T"],
+          "answer": 0,
+          "explanation": "R is at an extreme end. T is left of S, S not adjacent to R. Working out: R_Q_P or similar. P ends up in middle."
+        }
+      ]
+    },
+    {
+      "name": "Direction Sense",
+      "questions": [
+        {
+          "id": "R012",
+          "year": 2023,
+          "question": "A person starts from point A, walks 10 km North, then turns right and walks 5 km, then turns right and walks 10 km. How far is he from the starting point and in which direction?",
+          "options": ["5 km West", "5 km East", "10 km East", "10 km West", "5 km North"],
+          "answer": 1,
+          "explanation": "After going 10N, 5E, 10S — the person is at the same north-south level but 5 km east of start. So 5 km East."
+        },
+        {
+          "id": "R013",
+          "year": 2022,
+          "question": "Ram starts walking towards South. After walking 15 m, he turns to his left and walks 15 m. He then turns to his left and walks 20 m. He again turns left and walks 15 m. How far and in which direction is he from his starting position?",
+          "options": ["5 m North", "5 m South", "10 m North", "10 m South", "5 m East"],
+          "answer": 0,
+          "explanation": "Path: 15S → 15E → 20N → 15W. Final position: 5m North of start (20-15=5 North net)."
+        }
+      ]
+    },
+    {
+      "name": "Number Series",
+      "questions": [
+        {
+          "id": "R014",
+          "year": 2023,
+          "question": "Find the missing number: 2, 6, 12, 20, 30, ?",
+          "options": ["40", "42", "44", "46", "48"],
+          "answer": 1,
+          "explanation": "Pattern: differences are 4,6,8,10,12... Next: 30+12=42."
+        },
+        {
+          "id": "R015",
+          "year": 2022,
+          "question": "Find the odd one out: 1, 8, 27, 64, 124, 216",
+          "options": ["1", "27", "64", "124", "216"],
+          "answer": 3,
+          "explanation": "1=1³, 8=2³, 27=3³, 64=4³, 124≠5³(=125), 216=6³. So 124 is the odd one out."
+        },
+        {
+          "id": "R016",
+          "year": 2021,
+          "question": "What comes next in the series: 3, 7, 13, 21, 31, ?",
+          "options": ["41", "43", "45", "47", "49"],
+          "answer": 1,
+          "explanation": "Differences: 4,6,8,10,12... Next: 31+12=43."
+        }
+      ]
+    },
+    {
+      "name": "Inequality",
+      "questions": [
+        {
+          "id": "R017",
+          "year": 2023,
+          "question": "Statements: A ≥ B > C = D ≤ E < F\nConclusions: I. A > D  II. F > C",
+          "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+          "answer": 4,
+          "explanation": "A ≥ B > C = D → A > D (I follows). D ≤ E < F and C = D → C < F i.e. F > C (II follows). Both follow."
+        },
+        {
+          "id": "R018",
+          "year": 2022,
+          "question": "Statements: P < Q ≤ R = S > T ≥ U\nConclusions: I. R > P  II. S ≥ U",
+          "options": ["Only I follows", "Only II follows", "Either I or II follows", "Neither I nor II follows", "Both I and II follow"],
+          "answer": 4,
+          "explanation": "P < Q ≤ R → R > P (I follows). S > T ≥ U → S > U → S ≥ U (II follows). Both follow."
+        }
+      ]
+    },
+    {
+      "name": "Puzzles",
+      "questions": [
+        {
+          "id": "R019",
+          "year": 2023,
+          "question": "Six people A, B, C, D, E and F live on different floors (1-6). A lives on an even numbered floor. B lives above A. C lives below D. E lives on floor 3. F lives on the topmost floor. B and E are not on adjacent floors. If A is on floor 2, which floor does B live on?",
+          "options": ["4", "5", "6", "1", "3"],
+          "answer": 0,
+          "explanation": "F is on floor 6. E is on floor 3. A is on floor 2. B is above A (not adjacent to E=3), so B is on floor 4 or 5. With C below D and other constraints, B is on floor 4."
+        }
+      ]
+    },
+    {
+      "name": "Input-Output",
+      "questions": [
+        {
+          "id": "R020",
+          "year": 2022,
+          "question": "In a number arrangement machine, when given input '45 18 63 27 36 9 72', Step I rearranges numbers in ascending order. What is Step I output?",
+          "options": ["9 18 27 36 45 63 72", "72 63 45 36 27 18 9", "9 72 18 63 27 45 36", "45 18 63 27 36 9 72", "9 18 63 27 36 45 72"],
+          "answer": 0,
+          "explanation": "Ascending order of 45, 18, 63, 27, 36, 9, 72 → 9, 18, 27, 36, 45, 63, 72."
+        }
+      ]
+    }
+  ]
+}

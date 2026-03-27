@@ -1,0 +1,167 @@
+{
+  "subject": "English Language",
+  "topics": [
+    {
+      "name": "Reading Comprehension",
+      "questions": [
+        {
+          "id": "E001",
+          "year": 2023,
+          "question": "Passage: The Reserve Bank of India (RBI) has been taking several steps to deepen the bond market in India. RBI believes that a well-developed bond market is crucial for economic growth as it provides an alternative source of long-term capital for businesses and helps reduce the burden on the banking system.\n\nQ: According to the passage, why is a well-developed bond market important?",
+          "options": [
+            "It increases the repo rate",
+            "It provides alternative long-term capital and reduces burden on banks",
+            "It helps in printing more currency",
+            "It increases FDI in the country",
+            "It controls inflation directly"
+          ],
+          "answer": 1,
+          "explanation": "The passage clearly states: 'a well-developed bond market is crucial...as it provides an alternative source of long-term capital for businesses and helps reduce the burden on the banking system.'"
+        },
+        {
+          "id": "E002",
+          "year": 2022,
+          "question": "Passage: Financial inclusion is the process of ensuring access to financial services and timely and adequate credit where needed by vulnerable groups at an affordable cost. India has made significant strides in financial inclusion through initiatives like Jan Dhan Yojana and PMJDY.\n\nQ: Which initiatives have helped India in financial inclusion as per the passage?",
+          "options": [
+            "GST and Income Tax reforms",
+            "Demonetization and NEFT",
+            "Jan Dhan Yojana and PMJDY",
+            "MUDRA and Startup India",
+            "MNREGA and PM-Kisan"
+          ],
+          "answer": 2,
+          "explanation": "The passage directly mentions 'Jan Dhan Yojana and PMJDY' as initiatives for financial inclusion."
+        }
+      ]
+    },
+    {
+      "name": "Cloze Test",
+      "questions": [
+        {
+          "id": "E003",
+          "year": 2023,
+          "question": "The Indian economy has been ___(1)___ at a rapid pace. The government has taken several ___(2)___ to boost economic growth. Despite ___(3)___ challenges, India remains one of the fastest growing economies.\n\nBlank 1:",
+          "options": ["declining", "growing", "stagnating", "collapsing", "retreating"],
+          "answer": 1,
+          "explanation": "'Growing at a rapid pace' is the correct phrase as the context describes the Indian economy positively."
+        },
+        {
+          "id": "E004",
+          "year": 2023,
+          "question": "Continuing from above passage. Blank 2:",
+          "options": ["measures", "obstacles", "restrictions", "penalties", "barriers"],
+          "answer": 0,
+          "explanation": "'Measures' collocates with 'taken' to boost economic growth."
+        },
+        {
+          "id": "E005",
+          "year": 2022,
+          "question": "The banking sector plays a ___(1)___ role in the ___(2)___ of a country. Banks mobilize savings and ___(3)___ them into investments.\n\nBlank 1:",
+          "options": ["minor", "pivotal", "harmful", "irrelevant", "secondary"],
+          "answer": 1,
+          "explanation": "'Pivotal' means crucial/central, which correctly describes the banking sector's role."
+        }
+      ]
+    },
+    {
+      "name": "Error Detection",
+      "questions": [
+        {
+          "id": "E006",
+          "year": 2023,
+          "question": "Find the grammatically incorrect part:\n(A) The committee has / (B) decided to reviewed / (C) the policy / (D) before submitting it / (E) No error",
+          "options": ["A", "B", "C", "D", "E"],
+          "answer": 1,
+          "explanation": "'decided to reviewed' is incorrect. It should be 'decided to review' (infinitive form after 'to')."
+        },
+        {
+          "id": "E007",
+          "year": 2022,
+          "question": "Find the error:\n(A) Neither the manager / (B) nor the employees / (C) were present / (D) at the meeting / (E) No error",
+          "options": ["A", "B", "C", "D", "E"],
+          "answer": 2,
+          "explanation": "With 'neither...nor', verb agrees with the noun closest to it ('employees' - plural), so 'were' is actually correct. No error."
+        },
+        {
+          "id": "E008",
+          "year": 2021,
+          "question": "Find the error:\n(A) The news / (B) about the merger / (C) were shocking / (D) to everyone / (E) No error",
+          "options": ["A", "B", "C", "D", "E"],
+          "answer": 2,
+          "explanation": "'News' is uncountable/singular, so the verb should be 'was' not 'were'."
+        }
+      ]
+    },
+    {
+      "name": "Fill in the Blanks",
+      "questions": [
+        {
+          "id": "E009",
+          "year": 2023,
+          "question": "The RBI _____ the repo rate by 25 basis points to control inflation.",
+          "options": ["elevated", "hiked", "dropped", "declined", "maintained"],
+          "answer": 1,
+          "explanation": "'Hiked' is the standard financial term used when the RBI raises the repo rate."
+        },
+        {
+          "id": "E010",
+          "year": 2022,
+          "question": "Banks are _____ to maintain a certain percentage of their deposits as reserves with the RBI.",
+          "options": ["optional", "prohibited", "required", "discouraged", "prevented"],
+          "answer": 2,
+          "explanation": "'Required' correctly fills the blank as CRR is mandatory, not optional."
+        }
+      ]
+    },
+    {
+      "name": "Para Jumbles",
+      "questions": [
+        {
+          "id": "E011",
+          "year": 2023,
+          "question": "Arrange the sentences in order:\n(P) This is known as monetary policy.\n(Q) The Reserve Bank of India controls money supply in the economy.\n(R) By adjusting interest rates, RBI influences borrowing and spending.\n(S) The primary goal is to maintain price stability and economic growth.",
+          "options": ["QRPS", "PQRS", "QPRS", "QRSP", "RQPS"],
+          "answer": 3,
+          "explanation": "Q introduces RBI controlling money supply → R explains how (by adjusting rates) → S states the goal → P names it monetary policy. Order: QRSP."
+        },
+        {
+          "id": "E012",
+          "year": 2022,
+          "question": "Arrange:\n(P) This helps in price discovery and liquidity.\n(Q) The bond market is an important part of the financial system.\n(R) Government bonds are the most common instruments traded.\n(S) Investors buy and sell bonds based on interest rate expectations.",
+          "options": ["QRSP", "QRPS", "RSPQ", "SRQP", "PQRS"],
+          "answer": 0,
+          "explanation": "Q introduces bond market → R mentions most common instruments → S describes investor behavior → P explains benefits. Order: QRSP."
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary (Synonyms/Antonyms)",
+      "questions": [
+        {
+          "id": "E013",
+          "year": 2023,
+          "question": "Find the synonym of 'PRUDENT':",
+          "options": ["Reckless", "Cautious", "Lavish", "Ignorant", "Hasty"],
+          "answer": 1,
+          "explanation": "Prudent means showing care and thought for the future — 'Cautious' is its synonym."
+        },
+        {
+          "id": "E014",
+          "year": 2022,
+          "question": "Find the antonym of 'VOLATILE':",
+          "options": ["Unstable", "Fluctuating", "Stable", "Erratic", "Turbulent"],
+          "answer": 2,
+          "explanation": "Volatile means liable to change rapidly — its antonym is 'Stable'."
+        },
+        {
+          "id": "E015",
+          "year": 2021,
+          "question": "Choose the word most similar in meaning to 'REMUNERATE':",
+          "options": ["Punish", "Compensate", "Borrow", "Request", "Penalize"],
+          "answer": 1,
+          "explanation": "Remunerate means to pay or reward for work done — 'Compensate' is the closest synonym."
+        }
+      ]
+    }
+  ]
+}

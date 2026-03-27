@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RBI Assistant Exam Prep</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏦</text></svg>">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <a class="logo" href="#dashboard" onclick="navigate('dashboard'); return false;">
+        <span class="logo-icon">🏦</span>
+        <span>RBI Assistant Prep</span>
+      </a>
+      <nav>
+        <a href="#dashboard" data-page="dashboard" onclick="navigate('dashboard'); return false;">🏠 Home</a>
+        <a href="#schedule" data-page="schedule" onclick="navigate('schedule'); return false;">📅 Schedule</a>
+        <a href="#pyqs" data-page="pyqs" onclick="navigate('pyqs', {subject:'reasoning'}); return false;">📚 PYQs</a>
+        <a href="#concepts" data-page="concepts" onclick="navigate('concepts', {subject:'quantitative'}); return false;">📖 Concepts</a>
+        <a href="#mock" data-page="mock" onclick="navigate('mock'); return false;">🎯 Mock Tests</a>
+      </nav>
+      <div class="timer-display" id="study-time-indicator">
+        ⏰ Study Time: 6–8 PM
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main class="container">
+    <div id="main-content">
+      <div style="display:flex;align-items:center;justify-content:center;height:60vh;flex-direction:column;gap:16px">
+        <div style="font-size:3rem">🏦</div>
+        <h2 style="color:var(--primary)">Loading RBI Assistant Prep...</h2>
+        <p style="color:var(--text-light)">Fetching PYQs and study materials...</p>
+      </div>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer style="background:var(--primary);color:rgba(255,255,255,0.8);text-align:center;padding:16px;margin-top:40px;font-size:0.85rem">
+    🏦 RBI Assistant Exam Preparation Portal &nbsp;|&nbsp;
+    Study Slot: 6:00 PM – 8:00 PM &nbsp;|&nbsp;
+    Best of Luck! 🎯
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

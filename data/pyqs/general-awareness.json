@@ -1,0 +1,201 @@
+{
+  "subject": "General Awareness",
+  "topics": [
+    {
+      "name": "RBI & Banking",
+      "questions": [
+        {
+          "id": "G001",
+          "year": 2023,
+          "question": "Who is the current Governor of the Reserve Bank of India (as of 2024)?",
+          "options": ["Shaktikanta Das", "Urjit Patel", "Sanjay Malhotra", "Raghuram Rajan", "D. Subbarao"],
+          "answer": 2,
+          "explanation": "Sanjay Malhotra was appointed as the Governor of RBI in December 2024, succeeding Shaktikanta Das."
+        },
+        {
+          "id": "G002",
+          "year": 2023,
+          "question": "What does CRR stand for?",
+          "options": ["Credit Reserve Ratio", "Cash Reserve Ratio", "Capital Retention Ratio", "Central Reserve Rate", "Currency Regulation Ratio"],
+          "answer": 1,
+          "explanation": "CRR stands for Cash Reserve Ratio — the percentage of deposits banks must keep as cash with RBI."
+        },
+        {
+          "id": "G003",
+          "year": 2022,
+          "question": "The headquarters of Reserve Bank of India is located in:",
+          "options": ["New Delhi", "Kolkata", "Mumbai", "Chennai", "Bengaluru"],
+          "answer": 2,
+          "explanation": "The RBI headquarters is located in Mumbai (previously established in Kolkata in 1935, shifted to Mumbai in 1937)."
+        },
+        {
+          "id": "G004",
+          "year": 2022,
+          "question": "What is the full form of NEFT?",
+          "options": ["National Electronic Funds Transfer", "National Economic Funds Transfer", "New Electronic Financial Transfer", "National Exchange Funds Transfer", "None of the above"],
+          "answer": 0,
+          "explanation": "NEFT stands for National Electronic Funds Transfer — a nation-wide payment system facilitating one-to-one funds transfer."
+        },
+        {
+          "id": "G005",
+          "year": 2021,
+          "question": "The Statutory Liquidity Ratio (SLR) is the minimum percentage of deposits that commercial banks must maintain in the form of:",
+          "options": ["Cash only", "Gold only", "Cash, gold, and government securities", "Foreign currency", "RBI bonds"],
+          "answer": 2,
+          "explanation": "SLR is maintained in liquid assets: cash, gold, and government securities."
+        },
+        {
+          "id": "G006",
+          "year": 2023,
+          "question": "Which scheme aims to provide affordable banking services to the unbanked population of India?",
+          "options": ["PM Mudra Yojana", "Pradhan Mantri Jan Dhan Yojana", "Atal Pension Yojana", "Sukanya Samridhi Yojana", "National Pension System"],
+          "answer": 1,
+          "explanation": "PMJDY (Pradhan Mantri Jan Dhan Yojana) aims to ensure financial inclusion by providing banking services to unbanked households."
+        },
+        {
+          "id": "G007",
+          "year": 2022,
+          "question": "What is the Repo Rate used for?",
+          "options": ["Rate at which RBI lends to banks", "Rate at which banks lend to each other", "Rate at which RBI borrows from banks", "Rate at which customers borrow from banks", "Foreign exchange rate"],
+          "answer": 0,
+          "explanation": "Repo Rate is the rate at which the Reserve Bank of India lends money to commercial banks."
+        },
+        {
+          "id": "G008",
+          "year": 2021,
+          "question": "The RBI was established in which year?",
+          "options": ["1930", "1935", "1947", "1949", "1955"],
+          "answer": 1,
+          "explanation": "The Reserve Bank of India was established on April 1, 1935 under the Reserve Bank of India Act, 1934."
+        }
+      ]
+    },
+    {
+      "name": "Indian Economy",
+      "questions": [
+        {
+          "id": "G009",
+          "year": 2023,
+          "question": "What is the base year for the current GDP calculation in India?",
+          "options": ["2004-05", "2011-12", "2015-16", "2007-08", "2019-20"],
+          "answer": 1,
+          "explanation": "India revised its GDP base year from 2004-05 to 2011-12 in January 2015."
+        },
+        {
+          "id": "G010",
+          "year": 2022,
+          "question": "NABARD stands for:",
+          "options": ["National Bank for Agriculture and Rural Development", "National Bureau of Agriculture and Rural Development", "National Bank for Agricultural Reform and Development", "New Agriculture Banking and Rural Development", "None of these"],
+          "answer": 0,
+          "explanation": "NABARD stands for National Bank for Agriculture and Rural Development, established in 1982."
+        },
+        {
+          "id": "G011",
+          "year": 2021,
+          "question": "The concept of 'Financial Inclusion' in India was formally adopted following recommendations of which committee?",
+          "options": ["Narasimham Committee", "Rangarajan Committee", "Kelkar Committee", "Tarapore Committee", "Bimal Jalan Committee"],
+          "answer": 1,
+          "explanation": "The C. Rangarajan Committee on Financial Inclusion (2008) gave formal shape to financial inclusion policy in India."
+        }
+      ]
+    },
+    {
+      "name": "Current Affairs (Banking)",
+      "questions": [
+        {
+          "id": "G012",
+          "year": 2023,
+          "question": "What is UPI in banking context?",
+          "options": [
+            "Unified Payment Interface",
+            "Universal Payment Integration",
+            "United Payment Infrastructure",
+            "Unique Payment Identifier",
+            "Universal Postal Interface"
+          ],
+          "answer": 0,
+          "explanation": "UPI stands for Unified Payments Interface — a real-time payment system developed by NPCI."
+        },
+        {
+          "id": "G013",
+          "year": 2022,
+          "question": "Which organization regulates the insurance sector in India?",
+          "options": ["RBI", "SEBI", "IRDAI", "NABARD", "NHB"],
+          "answer": 2,
+          "explanation": "IRDAI (Insurance Regulatory and Development Authority of India) regulates the insurance sector in India."
+        },
+        {
+          "id": "G014",
+          "year": 2021,
+          "question": "IMPS (Immediate Payment Service) is an initiative by:",
+          "options": ["RBI", "SEBI", "NPCI", "Ministry of Finance", "NABARD"],
+          "answer": 2,
+          "explanation": "IMPS is managed by NPCI (National Payments Corporation of India)."
+        }
+      ]
+    },
+    {
+      "name": "Government Schemes",
+      "questions": [
+        {
+          "id": "G015",
+          "year": 2023,
+          "question": "Under Pradhan Mantri Mudra Yojana, 'Kishor' category covers loans up to:",
+          "options": ["Rs. 50,000", "Rs. 1 lakh", "Rs. 5 lakh", "Rs. 10 lakh", "Rs. 2 lakh"],
+          "answer": 2,
+          "explanation": "PMMY has three categories: Shishu (up to Rs.50,000), Kishor (Rs.50,001-5 lakh), Tarun (Rs.5-10 lakh)."
+        },
+        {
+          "id": "G016",
+          "year": 2022,
+          "question": "Sukanya Samriddhi Yojana is a savings scheme for:",
+          "options": ["Senior Citizens", "Farmers", "Girl Child", "Small Entrepreneurs", "Women entrepreneurs"],
+          "answer": 2,
+          "explanation": "Sukanya Samriddhi Yojana is a government savings scheme launched for the girl child under the 'Beti Bachao Beti Padhao' campaign."
+        }
+      ]
+    },
+    {
+      "name": "International Organizations",
+      "questions": [
+        {
+          "id": "G017",
+          "year": 2023,
+          "question": "The World Bank's headquarters is located in:",
+          "options": ["New York", "Geneva", "Washington D.C.", "London", "Paris"],
+          "answer": 2,
+          "explanation": "The World Bank Group is headquartered in Washington D.C., USA."
+        },
+        {
+          "id": "G018",
+          "year": 2022,
+          "question": "IMF stands for:",
+          "options": ["Indian Monetary Fund", "International Monetary Fund", "International Market Finance", "International Monetary Federation", "Inter-national Money Fund"],
+          "answer": 1,
+          "explanation": "IMF stands for International Monetary Fund, an international organization headquartered in Washington D.C."
+        }
+      ]
+    },
+    {
+      "name": "National Affairs",
+      "questions": [
+        {
+          "id": "G019",
+          "year": 2023,
+          "question": "India's first Digital Bank was launched in which state?",
+          "options": ["Maharashtra", "Karnataka", "Kerala", "Telangana", "Gujarat"],
+          "answer": 2,
+          "explanation": "India Post Payments Bank launched India's first digital bank with Airtel in Kerala."
+        },
+        {
+          "id": "G020",
+          "year": 2022,
+          "question": "Which is the regulatory authority for capital markets in India?",
+          "options": ["RBI", "SEBI", "IRDAI", "PFRDA", "NHB"],
+          "answer": 1,
+          "explanation": "SEBI (Securities and Exchange Board of India) is the regulatory body for capital markets in India."
+        }
+      ]
+    }
+  ]
+}

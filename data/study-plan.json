@@ -1,0 +1,272 @@
+{
+  "examName": "RBI Assistant",
+  "examPattern": {
+    "phases": [
+      {
+        "name": "Preliminary Examination",
+        "duration": 60,
+        "totalMarks": 100,
+        "sections": [
+          { "name": "English Language", "questions": 30, "marks": 30, "time": 20 },
+          { "name": "Numerical Ability", "questions": 35, "marks": 35, "time": 20 },
+          { "name": "Reasoning Ability", "questions": 35, "marks": 35, "time": 20 }
+        ]
+      },
+      {
+        "name": "Mains Examination",
+        "duration": 135,
+        "totalMarks": 200,
+        "sections": [
+          { "name": "Reasoning", "questions": 40, "marks": 40, "time": 30 },
+          { "name": "English Language", "questions": 40, "marks": 40, "time": 30 },
+          { "name": "Numerical Ability", "questions": 40, "marks": 40, "time": 30 },
+          { "name": "General Awareness", "questions": 40, "marks": 40, "time": 25 },
+          { "name": "Computer Knowledge", "questions": 40, "marks": 40, "time": 20 }
+        ]
+      }
+    ]
+  },
+  "studyPlan": {
+    "dailySlot": "6:00 PM to 8:00 PM",
+    "maxHoursPerDay": 2,
+    "totalWeeks": 4,
+    "schedule": [
+      {
+        "week": 1,
+        "theme": "Foundation – Concept Building",
+        "days": [
+          {
+            "day": "Day 1 (Mon)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "Reasoning – Syllogism & Inequality concepts", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Numerical – Number System & Percentage", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "Quick Quiz (20 Qs Reasoning + Numerical)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 2 (Tue)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "English – Grammar rules & Error Detection", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "English – Reading Comprehension tips", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "English Practice (20 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 3 (Wed)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "GA – RBI & Banking Awareness", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Computer Knowledge – Basics & MS Office", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "GA + Computer Quiz (20 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 4 (Thu)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "Reasoning – Blood Relations & Direction Sense", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Numerical – Profit/Loss & SI/CI", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "Mixed Subject Quiz (25 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 5 (Fri)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:30 PM", "activity": "Revision of Week 1 concepts", "type": "revision" },
+              { "duration": "6:30–8:00 PM", "activity": "Subject-wise Mini Mock (all 5 subjects, 10 Qs each)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 6 (Sat)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:30 PM", "activity": "Full Prelims Mock Test (100 Qs – 60 mins simulated)", "type": "mock" },
+              { "duration": "7:30–8:00 PM", "activity": "Review wrong answers", "type": "revision" }
+            ]
+          },
+          {
+            "day": "Day 7 (Sun)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "PYQ Practice – 2023 Prelims Questions", "type": "pyq" },
+              { "duration": "7:00–8:00 PM", "activity": "Analysis + Weak area identification", "type": "revision" }
+            ]
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "theme": "Deep Dive – Advanced Topics",
+        "days": [
+          {
+            "day": "Day 8 (Mon)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "Reasoning – Seating Arrangement & Puzzles", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Numerical – Time & Work, Speed & Distance", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "Practice Set (25 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 9 (Tue)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "English – Cloze Test & Para Jumbles", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "English – Vocabulary Building", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "English Full Section Test (30 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 10 (Wed)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "GA – Economy, Govt Schemes, Current Affairs", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Computer – Internet, Networking, Security", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "GA + Computer Test (30 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 11 (Thu)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:45 PM", "activity": "Reasoning – Coding-Decoding & Number Series", "type": "concept" },
+              { "duration": "6:45–7:30 PM", "activity": "Numerical – Data Interpretation", "type": "concept" },
+              { "duration": "7:30–8:00 PM", "activity": "DI Practice Set (20 Qs)", "type": "quiz" }
+            ]
+          },
+          {
+            "day": "Day 12 (Fri)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–6:30 PM", "activity": "Revision of Week 2 concepts", "type": "revision" },
+              { "duration": "6:30–8:00 PM", "activity": "Subject-wise Tests (Reasoning 35Q, Numerical 35Q)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 13 (Sat)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:30 PM", "activity": "Full Prelims Mock Test #2", "type": "mock" },
+              { "duration": "7:30–8:00 PM", "activity": "Error Analysis", "type": "revision" }
+            ]
+          },
+          {
+            "day": "Day 14 (Sun)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "PYQ Practice – 2022 Questions", "type": "pyq" },
+              { "duration": "7:00–8:00 PM", "activity": "Mock Analysis + Strategy planning", "type": "revision" }
+            ]
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "theme": "Mains Preparation",
+        "days": [
+          {
+            "day": "Day 15 (Mon)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "Mains pattern – All 5 subjects overview", "type": "concept" },
+              { "duration": "7:00–8:00 PM", "activity": "Mains subject test – Reasoning (40Q)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 16 (Tue)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "Mains English section practice (40Q)", "type": "mock" },
+              { "duration": "7:00–8:00 PM", "activity": "Review + Vocabulary session", "type": "revision" }
+            ]
+          },
+          {
+            "day": "Day 17 (Wed)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "GA current affairs marathon (last 6 months)", "type": "concept" },
+              { "duration": "7:00–8:00 PM", "activity": "GA Full Section Test (40Q)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 18 (Thu)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "Computer Knowledge complete revision", "type": "revision" },
+              { "duration": "7:00–8:00 PM", "activity": "Computer Full Section Test (40Q)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 19 (Fri)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "Numerical Ability Mains section (40Q)", "type": "mock" },
+              { "duration": "7:00–8:00 PM", "activity": "Weak areas targeted practice", "type": "revision" }
+            ]
+          },
+          {
+            "day": "Day 20 (Sat)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–8:00 PM", "activity": "Full Mains Mock Test (200Q – 135 min)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 21 (Sun)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "PYQ Set – 2021 Questions", "type": "pyq" },
+              { "duration": "7:00–8:00 PM", "activity": "Full mock analysis and strategy", "type": "revision" }
+            ]
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "theme": "Final Revision & Full Mocks",
+        "days": [
+          {
+            "day": "Day 22 (Mon)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–8:00 PM", "activity": "Full Prelims Mock #3 + Review", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 23 (Tue)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–8:00 PM", "activity": "Full Mains Mock #2 + Error Analysis", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 24 (Wed)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:00 PM", "activity": "Important formulas revision – Maths & Reasoning", "type": "revision" },
+              { "duration": "7:00–8:00 PM", "activity": "Banking GK quick revision (key facts)", "type": "revision" }
+            ]
+          },
+          {
+            "day": "Day 25 (Thu)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–8:00 PM", "activity": "Final Full Mock Test (Simulate actual exam)", "type": "mock" }
+            ]
+          },
+          {
+            "day": "Day 26 (Fri)",
+            "time": "6:00–8:00 PM",
+            "tasks": [
+              { "duration": "6:00–7:30 PM", "activity": "Final PYQ revision – All years", "type": "pyq" },
+              { "duration": "7:30–8:00 PM", "activity": "Mental prep + exam strategy discussion", "type": "revision" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "subject": "Computer Knowledge",
+  "topics": [
+    {
+      "name": "Basics of Computers",
+      "questions": [
+        {
+          "id": "C001",
+          "year": 2023,
+          "question": "The full form of CPU is:",
+          "options": ["Central Processing Unit", "Computer Processing Unit", "Core Processing Unit", "Central Program Unit", "Central Peripheral Unit"],
+          "answer": 0,
+          "explanation": "CPU stands for Central Processing Unit — the primary component that executes instructions of a computer program."
+        },
+        {
+          "id": "C002",
+          "year": 2022,
+          "question": "Which of the following is NOT an output device?",
+          "options": ["Monitor", "Printer", "Speaker", "Scanner", "Projector"],
+          "answer": 3,
+          "explanation": "Scanner is an INPUT device that converts physical documents into digital format. Monitor, Printer, Speaker, and Projector are output devices."
+        },
+        {
+          "id": "C003",
+          "year": 2021,
+          "question": "1 Gigabyte (GB) is equal to how many Megabytes (MB)?",
+          "options": ["100 MB", "512 MB", "1000 MB", "1024 MB", "2048 MB"],
+          "answer": 3,
+          "explanation": "1 GB = 1024 MB (using binary system used in computing)."
+        },
+        {
+          "id": "C004",
+          "year": 2023,
+          "question": "What is the main purpose of an operating system?",
+          "options": [
+            "To browse the internet",
+            "To manage hardware resources and provide user interface",
+            "To create documents",
+            "To play multimedia files",
+            "To send emails"
+          ],
+          "answer": 1,
+          "explanation": "The operating system manages hardware resources (CPU, memory, storage) and provides a user interface to interact with the computer."
+        }
+      ]
+    },
+    {
+      "name": "MS Office",
+      "questions": [
+        {
+          "id": "C005",
+          "year": 2023,
+          "question": "What is the shortcut key to save a document in MS Word?",
+          "options": ["Ctrl+S", "Ctrl+A", "Ctrl+V", "Alt+S", "F5"],
+          "answer": 0,
+          "explanation": "Ctrl+S is the universal shortcut to save a document in MS Word and most applications."
+        },
+        {
+          "id": "C006",
+          "year": 2022,
+          "question": "Which function in MS Excel calculates the average of selected numbers?",
+          "options": ["SUM", "COUNT", "AVERAGE", "MAX", "MIN"],
+          "answer": 2,
+          "explanation": "The AVERAGE function in MS Excel calculates the arithmetic mean of the selected range of numbers."
+        },
+        {
+          "id": "C007",
+          "year": 2021,
+          "question": "What is the extension of MS PowerPoint files?",
+          "options": [".doc", ".xls", ".ppt", ".pdf", ".txt"],
+          "answer": 2,
+          "explanation": "MS PowerPoint files are saved with .ppt (older) or .pptx (newer) extension."
+        },
+        {
+          "id": "C008",
+          "year": 2023,
+          "question": "Which of the following is used to create a database?",
+          "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access", "MS Outlook"],
+          "answer": 3,
+          "explanation": "MS Access is a database management system included in MS Office suite."
+        }
+      ]
+    },
+    {
+      "name": "Internet & Networking",
+      "questions": [
+        {
+          "id": "C009",
+          "year": 2023,
+          "question": "What does HTTP stand for?",
+          "options": [
+            "HyperText Transfer Protocol",
+            "High Transfer Text Protocol",
+            "HyperText Transport Process",
+            "Hyperlink Text Transfer Protocol",
+            "Home Text Transfer Process"
+          ],
+          "answer": 0,
+          "explanation": "HTTP stands for HyperText Transfer Protocol — the foundation of data communication on the World Wide Web."
+        },
+        {
+          "id": "C010",
+          "year": 2022,
+          "question": "An IP address consists of how many bits (IPv4)?",
+          "options": ["8 bits", "16 bits", "32 bits", "64 bits", "128 bits"],
+          "answer": 2,
+          "explanation": "IPv4 addresses are 32-bit numbers expressed as four octets (e.g., 192.168.1.1)."
+        },
+        {
+          "id": "C011",
+          "year": 2021,
+          "question": "What is a Firewall in computing?",
+          "options": [
+            "A system to prevent fires in data centers",
+            "A security system that monitors and controls network traffic",
+            "A type of computer processor",
+            "Software to speed up internet",
+            "A type of memory"
+          ],
+          "answer": 1,
+          "explanation": "A Firewall is a network security system that monitors and controls incoming and outgoing network traffic based on security rules."
+        }
+      ]
+    },
+    {
+      "name": "Security & Cybercrime",
+      "questions": [
+        {
+          "id": "C012",
+          "year": 2023,
+          "question": "What is Phishing?",
+          "options": [
+            "A type of fishing game",
+            "Fraudulent attempt to steal sensitive information by disguising as trustworthy entity",
+            "A computer virus",
+            "A type of encryption",
+            "A network protocol"
+          ],
+          "answer": 1,
+          "explanation": "Phishing is a cybercrime where attackers disguise themselves as legitimate entities to steal sensitive information like passwords and banking details."
+        },
+        {
+          "id": "C013",
+          "year": 2022,
+          "question": "What does SSL stand for in internet security?",
+          "options": ["Secure Socket Layer", "System Security Layer", "Safe Socket Link", "Secure System Link", "Standard Security Level"],
+          "answer": 0,
+          "explanation": "SSL stands for Secure Socket Layer — a standard security protocol for establishing encrypted links between servers and browsers."
+        },
+        {
+          "id": "C014",
+          "year": 2021,
+          "question": "Which of the following is an example of malware?",
+          "options": ["MS Word", "Antivirus", "Ransomware", "Firewall", "Browser"],
+          "answer": 2,
+          "explanation": "Ransomware is malicious software (malware) that encrypts files and demands payment for decryption."
+        }
+      ]
+    },
+    {
+      "name": "Banking Technology",
+      "questions": [
+        {
+          "id": "C015",
+          "year": 2023,
+          "question": "What is Core Banking Solution (CBS)?",
+          "options": [
+            "A software for managing bank branches centrally",
+            "A type of bank loan",
+            "An RBI regulation",
+            "A digital wallet",
+            "A credit card system"
+          ],
+          "answer": 0,
+          "explanation": "CBS is a solution that enables banks to offer a centralized system to manage operations across all branches in real-time."
+        },
+        {
+          "id": "C016",
+          "year": 2022,
+          "question": "What technology is used in ATMs to read card information?",
+          "options": ["NFC", "Magnetic Strip / Chip", "Bluetooth", "WiFi", "Infrared"],
+          "answer": 1,
+          "explanation": "ATMs read card information using magnetic strips or EMV chips embedded in the debit/credit cards."
+        },
+        {
+          "id": "C017",
+          "year": 2021,
+          "question": "SWIFT stands for:",
+          "options": [
+            "Society for Worldwide Interbank Financial Telecommunication",
+            "Secure Wire International Financial Transfer",
+            "System for Worldwide Inter-bank Financial Transfers",
+            "Standard World Interbank Funds Transfer",
+            "None of these"
+          ],
+          "answer": 0,
+          "explanation": "SWIFT stands for Society for Worldwide Interbank Financial Telecommunication — a global network for secure financial messaging."
+        }
+      ]
+    }
+  ]
+}
